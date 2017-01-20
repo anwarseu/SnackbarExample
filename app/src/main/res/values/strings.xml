@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SnackbarExample</string>
+    <string name="no_internet">No internet available !</string>
+    <string name="btn_settings">Settings</string>
+</resources>
